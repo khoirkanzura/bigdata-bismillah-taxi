@@ -1,0 +1,6 @@
+keterangan,jumlah
+Jumlah data awal,1019925
+Jumlah data setelah dropna,1019915
+Jumlah data setelah filter dasar,995141
+Jumlah data setelah filter jarak,984372
+Jumlah data final setelah preprocessing,984372

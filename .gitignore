@@ -1,0 +1,24 @@
+# Dataset besar
+data/*.csv
+data/*.parquet
+train_split_00.csv
+
+# Output besar / temporary
+output/clean_parquet/
+output/from_hdfs/
+output/*.parquet
+models/
+spark-warehouse/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Log dan temporary
+*.log
+*.tmp
+.DS_Store
+
+# Environment
+.venv/
+env/

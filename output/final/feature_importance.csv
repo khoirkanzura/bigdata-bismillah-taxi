@@ -1,0 +1,11 @@
+feature,importance
+passenger_count,0.0
+pickup_longitude,0.008154870387742714
+pickup_latitude,8.289801399606207E-4
+dropoff_longitude,0.024994512159642983
+dropoff_latitude,0.013705220415611742
+trip_distance_km,0.9271918249256406
+pickup_hour,0.0016621827406781923
+pickup_dayofweek,0.0
+pickup_month,0.0
+pickup_year,0.023462409230723062
